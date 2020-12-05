@@ -1,4 +1,4 @@
-# plantrapp
+# Plantr 🌱
 
 A new Flutter project.
 
